@@ -15,10 +15,9 @@
 
 ![Снимок экрана 2024-09-22 155222](https://github.com/user-attachments/assets/0c87a898-f3c5-4ba1-879c-955a122ab037)
 
-пункт 9-11:
-Создаю новый локальный репозиторий
 
 9:
+Создаю новый локальный репозиторий
 
 ![Снимок экрана 2024-09-22 200730](https://github.com/user-attachments/assets/05720dff-c3c1-40ca-900f-b190f2115162)
 
@@ -57,3 +56,15 @@
 
 ![Снимок экрана 2024-09-22 201128](https://github.com/user-attachments/assets/beb9ac40-f15a-47a1-b262-f9d44fe2301c)
 
+11:
+Создаю следущую структуру:
+
+![Снимок экрана 2024-09-23 203016](https://github.com/user-attachments/assets/71e87345-d494-4eb3-b841-83b196ccd223)
+
+Делаю git rebase client, указывая c6
+
+![Снимок экрана 2024-09-23 210052](https://github.com/user-attachments/assets/e6ab8384-7cd4-4c1c-b42a-00882b03100a)
+
+Делаю git rebase server, указывая с9
+
+![Снимок экрана 2024-09-23 210148](https://github.com/user-attachments/assets/1f9ae8ff-246f-4b4f-b07b-74be280aa2ca)
